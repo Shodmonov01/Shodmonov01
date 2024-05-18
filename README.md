@@ -1,6 +1,5 @@
 ## Hi there,
-> Software developer with extensive experience with Django Rest and Flask frameworks. Very experienced with Python(+4). Excellent web expert, and competent developer in several languages and technologies including
-Websocets, Celery, Redis, OpenCV and Selenium
+> Hi! 👋 I'm Amir, a 22-year-old engineering sophomore pursuing BTech in Information Technology. I am a passionate self-learner, Open source enthusiast, exploring and building projects👨‍💻 using various technologies. I am a frontend web developer well versed in HTML, CSS, JavaScript and stand at a beginner-intermediate level of React.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-shodmonov-270398201/)
