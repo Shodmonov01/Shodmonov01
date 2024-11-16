@@ -15,9 +15,13 @@
 ###
 
 <p align="left">
-  Я — фронтенд разработчик с более чем **3 годами опыта** в создании сложных веб-приложений. Специализируюсь на **React** и **TypeScript**, активно использую **Next.js**, **Redux** и интеграцию с бэкендом через **REST API** и **GraphQL**.<br><br>
-  Имею опыт оптимизации производительности с помощью **code splitting**, **lazy loading** и **memoization**, а также внедрял **server-side rendering** для улучшения SEO и скорости загрузки. В процессе работы освоил методы создания **масштабируемых** и **модульных решений** и управления состоянием с помощью **Redux** и **Context API**.<br><br>
-  Имею опыт работы с **MongoDB** и **Express**, что позволяет мне разрабатывать полноценные приложения на фронтенде и бэкенде.
+  Я — фронтенд разработчик с более чем <b>3 годами опыта</b> в создании сложных веб-приложений. Специализируюсь на <b>React</b> и <b>TypeScript</b>, активно использую <b>Next.js</b>, <b>Redux</b> и интеграцию с бэкендом через <b>REST API</b> и <b>GraphQL</b>.<br><br>
+
+  💡 Я активно использую подходы для оптимизации производительности, такие как <b>code splitting</b>, <b>lazy loading</b> и <b>memoization</b>. Также внедрял <b>server-side rendering</b> в проектах для улучшения SEO и скорости загрузки.<br><br>
+
+  🚀 В процессе работы освоил методы создания <b>масштабируемых</b> и <b>модульных решений</b>, а также управления состоянием с помощью <b>Redux</b> и <b>Context API</b>.<br><br>
+
+  🖥️ Мой опыт работы с <b>MongoDB</b> и <b>Express</b> позволяет мне разрабатывать полноценные приложения не только на фронтенде, но и на бэкенде.
 </p>
 
 ###
@@ -33,30 +37,28 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" title="Next.js" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" title="Redux" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" title="Express" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" title="GraphQL" />
 </div>
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥 Моя статистика :</h3>
 
 ###
 
